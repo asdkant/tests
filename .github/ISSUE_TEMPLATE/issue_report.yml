@@ -105,6 +105,6 @@ body:
         # - label: I have updated the app **[the latest version](https://github.com/asdkant/open-thumb/releases/latest)**.
         #   required: true
         - label: >-
-          <!--autoclose--> I have admitted that I am a clown by having checked this box, as I have not read these acknowledgements. 🤡
+          <!--IAmAClown--> I have admitted that I am a clown by having checked this box, as I have not read these acknowledgements. 🤡
         - label: I have filled out all of the requested information in this form.
           required: true
